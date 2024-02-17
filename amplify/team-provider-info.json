@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-weddingshots-dev-203333-authRole",
+      "UnauthRoleArn": "arn:aws:iam::992382599668:role/amplify-weddingshots-dev-203333-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::992382599668:role/amplify-weddingshots-dev-203333-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-weddingshots-dev-203333-deployment",
+      "UnauthRoleName": "amplify-weddingshots-dev-203333-unauthRole",
+      "StackName": "amplify-weddingshots-dev-203333",
+      "StackId": "arn:aws:cloudformation:eu-west-2:992382599668:stack/amplify-weddingshots-dev-203333/d1f8ef90-cdd3-11ee-8055-0aac5cf6d7cf",
+      "AmplifyAppId": "d1wuzwvopfnve9"
+    },
+    "categories": {
+      "auth": {
+        "weddingshotsa3494fa2": {}
+      }
+    }
+  }
+}

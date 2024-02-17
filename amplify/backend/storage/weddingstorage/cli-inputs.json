@@ -1,0 +1,18 @@
+{
+  "resourceName": "weddingstorage",
+  "policyUUID": "1dcc89e5",
+  "bucketName": "weddingbucket",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
